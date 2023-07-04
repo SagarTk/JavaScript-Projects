@@ -1,1 +1,3 @@
-<div style="position: relative; padding-bottom: 56.25%; height: 0;"><iframe src="https://www.loom.com/embed/15bb40f03d134738955fa6ab8f61ecb2?sid=7aaaf977-2a28-4084-84a3-09dae6f50bab" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;"></iframe></div>
+![CounterTimer1](https://github.com/SagarTk/JavaScript-Projects/assets/89976590/2f00e3a1-7dc2-4c52-a2f1-f829304531ce)
+![CounterTimer3](https://github.com/SagarTk/JavaScript-Projects/assets/89976590/22ae1646-7818-445d-8177-daa083ac6eb0)
+![CounterTimer2](https://github.com/SagarTk/JavaScript-Projects/assets/89976590/03153060-4301-4685-8743-6ad52340fe53)
